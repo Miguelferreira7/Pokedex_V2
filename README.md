@@ -8,4 +8,7 @@
 My first project on Flutter, now, deployed with BLoC state management.
 
 
-[![miguelCode](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelferreira7&hide=html&layout=compact&theme=default)](https://github.com/miguelferreira7/)
+ <div align="center">
+  <a href="https://github.com/miguelferreira7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelferreira7&hide=html&layout=compact&theme=default"/>
+</div>
