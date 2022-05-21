@@ -7,6 +7,7 @@
 
 My first project on Flutter, now, deployed with BLoC state management.
 
+  
 
  <div align="center">
   <a href="https://github.com/miguelferreira7">
